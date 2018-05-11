@@ -1,0 +1,27 @@
+{
+  "name": "meadomlark",
+  "version": "1.0.0",
+  "description": "web development with Node and Express",
+  "main": "meadomlark.js",
+  "scripts": {
+    "test": "node meadomlark.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Enigma1912/meadomlark.git"
+  },
+  "keywords": [
+    "node.js",
+    "express"
+  ],
+  "author": "EthanRBrown",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Enigma1912/meadomlark/issues"
+  },
+  "homepage": "https://github.com/Enigma1912/meadomlark#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0"
+  }
+}
